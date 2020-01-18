@@ -1,2 +1,2 @@
 # CSS-Layout-1
-Contoh Layout CSS
+Belajar membuat layout CSS singkat
